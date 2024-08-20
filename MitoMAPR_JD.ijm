@@ -218,6 +218,7 @@ var CellAreaArray = newArray();
 
 	 }
 //	 	run("Close All");
+	roiManager("save", dir3+"/Rois.zip");
 	}
 //}
 
